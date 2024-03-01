@@ -19,5 +19,3 @@
   <a href="https://www.linkedin.com/in/carlos-otávio-11588b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!--Animation-->
-  ![Snake animation](https://github.com/eid6n/eid6n/blob/output/github-contribution-grid-snake.svg)
