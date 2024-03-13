@@ -4,7 +4,6 @@
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eid6n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eid6n&layout=compact&langs_count=16&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eid6n&&theme=tokyonight" alt="eid6n" />
 </div>
 
 <div style="display: inline_block"><br>
